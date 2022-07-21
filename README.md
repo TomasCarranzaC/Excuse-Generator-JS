@@ -1,3 +1,13 @@
+Using my basic JS knowledge i create this Excuse Generator that makes up a new excuse every time you click the botton.
+
+This is an excercise for the 4Geeks academy Bootcamp that i'm doing.
+
+Hope you like it :)
+
+
+
+
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
